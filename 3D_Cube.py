@@ -1,3 +1,5 @@
+# TO DO ADD PAINTERS ALGORITHM
+
 import pygame
 import OpenGL.GL
 from math import sin, cos
